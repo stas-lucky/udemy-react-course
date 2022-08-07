@@ -6,3 +6,4 @@
 24.07.2022 116 Reducers
 31.07.2022 125 Custom context
 03.08.2022 126 Context limitations
+07.08.2022 139 Shopping cart
