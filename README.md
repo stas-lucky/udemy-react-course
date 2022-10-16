@@ -7,3 +7,5 @@
 31.07.2022 125 Custom context
 03.08.2022 126 Context limitations
 07.08.2022 139 Shopping cart
+09.10.2022 186 Http requests
+16.10.2022 197 Working with forms & user input
